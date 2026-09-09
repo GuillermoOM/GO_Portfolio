@@ -98,22 +98,36 @@
       ]
     },
     "Engineering_Skills": {
-      "name": "Engineer Skills",
+      "name": "Engineering Skills",
       "coordinates": [250.0, 0.0, 20.0],
       "items": [
         {
-          "name": "Mid",
+          "name": "CAD & Design",
           "type": "GND",
           "color": [200.0,200.0,0.0],
           "coordinates": [230.0, 0.0, 20.0],
-          "description": "- CAD<br>- Embedded Systems<br>- Microcontrollers<br>- Internet of Things<br>- CNC Programming<br>- PLC Programming<br>- 3D Printing<br>- LabView<br>- MATLAB"
+          "description": "- CAD<br>- PCB Design"
         },
         {
-          "name": "Junior",
+          "name": "Embedded & Control",
           "type": "GND",
-          "color": [200.0,0.0,0.0],
+          "color": [200.0,130.0,0.0],
           "coordinates": [250.0, 20.0, 20.0],
-          "description": "- PCB Design<br>- Industrial Networking"
+          "description": "- Embedded Systems<br>- Microcontrollers<br>- PLC Programming<br>- Internet of Things<br>- Industrial Networking"
+        },
+        {
+          "name": "Simulation & Analysis",
+          "type": "GND",
+          "color": [200.0,0.0,200.0],
+          "coordinates": [270.0, -10.0, 20.0],
+          "description": "- LabView<br>- MATLAB"
+        },
+        {
+          "name": "Fabrication",
+          "type": "GND",
+          "color": [0.0,150.0,200.0],
+          "coordinates": [265.0, 15.0, 20.0],
+          "description": "- CNC Programming<br>- 3D Printing"
         }
       ]
     },
